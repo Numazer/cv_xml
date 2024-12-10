@@ -1,0 +1,62 @@
+<cv>
+    <partie1>
+        <identite>
+            <nom>Saadi</nom>
+            <prenom>Emmanuel</prenom>
+        </identite>
+        <adresse>
+            <rue>8 rue du marche</rue>
+            <codepostale>34800</codepostale>
+            <ville>clermont l'herault</ville>
+        </adresse>
+        <numeroTelephone>07.70.06.99.22</numeroTelephone>
+        <mail>emmanuel.saadisarrault@gmail.com</mail>
+    </partie1>
+    <partie2>
+        <centreInteret>informatique, sport, nature, animaux</centreInteret>
+        <langues>francais, anglais</langues>
+    </partie2>
+    <partie3>
+       <presentation>En plein apprentissage pour devenir développeur !</presentation>
+        <formationsEtDiplomes>
+            <fD>
+                <date>2024 - 2025</date>
+                <intitule>titre pro developpeur web et web mobile</intitule>
+            </fD>
+            <fD>
+                <date>2019 - 2020</date>
+                <intitule>titre pro pro chauffeur SPL</intitule>
+            </fD>
+            <fD>
+                <date>2012 - 2013</date>
+                <intitule>Baccalaureat ES</intitule>
+            </fD>
+        </formationsEtDiplomes>
+        <experiences>
+            <exp>
+                <date>2024 - jusqu'a maintenant</date>
+                <intitule>Stagiaire Developpeur Web</intitule>
+                <entr>Beweb ecole fondespierre</entr>
+                <loca>IUT beziers</loca>
+            </exp>
+            <exp>
+                <date>2023 - 2024</date>
+                <intitule>chauffeur SPL</intitule>
+                <entr>STRM</entr>
+                <loca>Montpellier</loca>
+            </exp>
+            <exp>
+                <date>2022 - 2023</date>
+                <intitule>chauffeur SPL</intitule>
+                <entr>HTE</entr>
+                <loca>Montpellier</loca>
+            </exp>
+            <exp>
+                <date>2020 - 2021</date
+                <intitule>chauffeur SPL</intitule>
+                <entr>STRADA</entr>
+                <loca>paris</loca>
+            </exp>
+        </experiences>
+    </partie3>
+</cv>       
